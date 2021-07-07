@@ -1,0 +1,16 @@
+//EXERCISES USING CALLBACKS 
+// make sure to handle erros and do not use shadowing 
+//try renaming files
+//deleting files
+//changing text inside a file 
+//creating a new file with content
+
+1. Rename bollocks.txt to foo.txt
+2. Create two copies of foo.txt as bar.txt and baz.txt
+3. Delete baz.txt
+4. Create a new file named hello.txt with the content "hello world"
+5. Change the text inside hello.txt to upper case ("hello world" => "HELLO WORLD")
+// Things to note:
+// 1. Properly handle errors and log them
+// 2. No shadowing of variables
+// 3. Keep in mind that readFile returns a Buffer
