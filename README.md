@@ -6,7 +6,7 @@ Node fundamental CLI workshop program
 Following net ninja's tutorials I'll create files for each of the following topics while working through them.
 
 
-- Node Bascis
+- Node Basics
 
 - Core Modules
 
